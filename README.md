@@ -6,17 +6,14 @@
 
 ---
 
-### 🧭 Sobre mim
+Profissional em transição de carreira, com experiência prática em Qualidade de Software. Atuo com testes funcionais, exploratórios e de regressão para aplicações web, validação de APIs e documentação de casos de teste.
 
-Sou profissional em transição de carreira — vim da área da saúde e encontrei na tecnologia um novo propósito. Atualmente atuo como **Assistente de QA (Freelancer)**, com foco em testes funcionais, exploratórios e de regressão para aplicações web.
-
-Tenho experiência em **validação de APIs via Swagger**, documentação de casos de teste no Confluence, testes em ambientes de staging e produção, e participação ativa em metodologias ágeis (Scrum e Kanban).
-
+Comprometida com boas práticas de QA, atenção aos detalhes e entrega de valor em cada ciclo de testes. Atualmente aprofundando conhecimentos em Cypress, SQL e JavaScript.
 O que me define como profissional: **atenção aos detalhes, comunicação clara e muita vontade de aprender.** 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -32,7 +29,7 @@ O que me define como profissional: **atenção aos detalhes, comunicação clara
 
 ---
 
-### 📋 O que eu faço
+### Competências
 
 - Criação, execução e documentação de casos de teste
 - Testes funcionais, exploratórios e de regressão
@@ -42,12 +39,6 @@ O que me define como profissional: **atenção aos detalhes, comunicação clara
 - Documentação técnica no Confluence
 - Análise de requisitos e participação em refinamentos técnicos
 - Testes em ambientes de staging e produção
-
----
-
-### 🚀 Em evolução contínua
-
-Estou aprofundando meus conhecimentos em **cypress**, **SQL**, **javascript** e boas práticas de QA. Este perfil vai crescer junto comigo. 😊
 
 ---
 
