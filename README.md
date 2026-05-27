@@ -12,7 +12,7 @@ Sou profissional em transição de carreira — vim da área da saúde e encontr
 
 Tenho experiência em **validação de APIs via Swagger**, documentação de casos de teste no Confluence, testes em ambientes de staging e produção, e participação ativa em metodologias ágeis (Scrum e Kanban).
 
-O que me define como profissional: **atenção aos detalhes, comunicação clara e muita vontade de aprender.** 🚀
+O que me define como profissional: **atenção aos detalhes, comunicação clara e muita vontade de aprender.** 
 
 ---
 
@@ -26,40 +26,28 @@ O que me define como profissional: **atenção aos detalhes, comunicação clara
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
 ### 📋 O que eu faço
 
-- ✅ Criação, execução e documentação de casos de teste
-- 🔎 Testes funcionais, exploratórios e de regressão
-- 🌐 Validação de APIs via Swagger
-- 🤖 Validação de chatbots com IA (testes de prompts e consistência de respostas)
-- 🎨 Validação de UI/UX — consistência visual e usabilidade
-- 📝 Documentação técnica no Confluence
-- 📌 Análise de requisitos e participação em refinamentos técnicos
-- ⚙️ Ambientes de staging e produção
+- Criação, execução e documentação de casos de teste
+- Testes funcionais, exploratórios e de regressão
+- Validação de APIs via Swagger
+- Validação de chatbots com IA (testes de prompts e consistência de respostas)
+- Validação de UI/UX — consistência visual e usabilidade
+- Documentação técnica no Confluence
+- Análise de requisitos e participação em refinamentos técnicos
+- Testes em ambientes de staging e produção
 
 ---
 
-### 📚 Formação e Certificações
+### 🚀 Em evolução contínua
 
-🎓 **Engenharia de Software** — Unicesumar *(em andamento, 2025–2029)*
-🦷 **Odontologia** — Facene *(2017–2022)*
-
-📜 Guia Geral em Testes de Software — Udemy  
-📜 Testes Automáticos e QA Completo — Udemy  
-📜 Protocolo HTTP e HTTPS — Cursa  
-📜 SQL — FGV  
-📜 Programação em Linguagem C — Realizzare  
-📜 Algoritmos — Curso em Vídeo  
-
----
-
-### 🌱 Em evolução contínua
-
-Estou aprofundando meus conhecimentos em **automação de testes**, **SQL**, **javascript** e boas práticas de QA. Este perfil vai crescer junto comigo. 😊
+Estou aprofundando meus conhecimentos em **cypress**, **SQL**, **javascript** e boas práticas de QA. Este perfil vai crescer junto comigo. 😊
 
 ---
 
