@@ -9,6 +9,7 @@
 Profissional em transição de carreira, com experiência prática em Qualidade de Software. Atuo com testes funcionais, exploratórios e de regressão para aplicações web, validação de APIs e documentação de casos de teste.
 
 Comprometida com boas práticas de QA, atenção aos detalhes e entrega de valor em cada ciclo de testes. Atualmente aprofundando conhecimentos em Cypress, SQL e JavaScript.
+
 O que me define como profissional: **atenção aos detalhes, comunicação clara e muita vontade de aprender.** 
 
 ---
